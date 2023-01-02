@@ -1,3 +1,7 @@
 (fp_lib_table
   (lib (name "PEC11S-9213K-S0015")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/PEC11S-9213K-S0015/PEC11S-9213K-S0015.pretty")(options "")(descr ""))
+  (lib (name "B3FS-1010")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/B3FS-1010")(options "")(descr ""))
+  (lib (name "LP2985-50")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/LP2985-50")(options "")(descr ""))
+  (lib (name "PJ-036AH-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/PJ-036AH-SMT-TR")(options "")(descr ""))
+  (lib (name "TZ042101B000G")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/TZ042101B000G/TZ042101B000G.pretty")(options "")(descr ""))
 )
