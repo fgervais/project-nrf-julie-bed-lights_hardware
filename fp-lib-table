@@ -4,4 +4,6 @@
   (lib (name "LP2985-50")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/LP2985-50")(options "")(descr ""))
   (lib (name "PJ-036AH-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/PJ-036AH-SMT-TR")(options "")(descr ""))
   (lib (name "TZ042101B000G")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/TZ042101B000G/TZ042101B000G.pretty")(options "")(descr ""))
+  (lib (name "AP63300WU-7")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/AP63300WU-7")(options "")(descr ""))
+  (lib (name "LBR2518T100K")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/LBR2518T100K")(options "")(descr ""))
 )

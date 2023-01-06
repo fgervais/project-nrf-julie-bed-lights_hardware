@@ -2,4 +2,6 @@
   (lib (name "B3FS-1010P")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/B3FS-1010/B3FS-1010P.kicad_sym")(options "")(descr ""))
   (lib (name "LP2985-50DBVR")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/LP2985-50/LP2985-50DBVR.kicad_sym")(options "")(descr ""))
   (lib (name "PJ-036AH-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/PJ-036AH-SMT-TR/PJ-036AH-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "AP63300WU-7")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/AP63300WU-7/AP63300WU-7.kicad_sym")(options "")(descr ""))
+  (lib (name "LBR2518T100K")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/LBR2518T100K/LBR2518T100K.kicad_sym")(options "")(descr ""))
 )
