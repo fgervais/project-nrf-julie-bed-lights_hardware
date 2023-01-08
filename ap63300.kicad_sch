@@ -462,7 +462,7 @@
   (symbol (lib_id "AP63300WU-7:AP63300WU-7") (at 67.31 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 83304595-201e-4ded-903f-0d8b414c8d7b)
-    (property "Reference" "U?" (id 0) (at 67.31 29.3202 0))
+    (property "Reference" "U1" (id 0) (at 67.31 29.3202 0))
     (property "Value" "AP63300WU-7" (id 1) (at 67.31 31.8571 0))
     (property "Footprint" "AP63300WU-7:SOT95P280X100-6N" (id 2) (at 72.39 20.32 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
