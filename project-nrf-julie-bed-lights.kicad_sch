@@ -1060,8 +1060,18 @@
     (uuid bd71a780-17ae-4c06-8139-690126e875c2)
   )
 
+  (no_connect (at 49.53 99.06) (uuid 0a317756-7c49-44dc-b374-8929540d8c17))
+  (no_connect (at 49.53 96.52) (uuid 160fb7ff-a468-42fe-adc5-73093c0d94a7))
+  (no_connect (at 49.53 109.22) (uuid 2732b438-a3b8-4dbe-96fe-aa4afd0559f7))
+  (no_connect (at 49.53 104.14) (uuid 38409d35-f05d-4690-9660-1a5e68cf1c64))
   (no_connect (at 45.72 35.56) (uuid 38de9214-9550-488b-9a11-5a177b231e60))
+  (no_connect (at 49.53 101.6) (uuid 476e7ae3-9461-4fbb-94ee-e498af358007))
+  (no_connect (at 49.53 106.68) (uuid 6910c8d0-f635-4e1f-9027-ccfdb359e9db))
+  (no_connect (at 76.2 101.6) (uuid 6cb60ea4-bbd7-4cf2-ab6f-8ef27f450abc))
+  (no_connect (at 76.2 99.06) (uuid 7947c4cd-3959-41d1-9e0b-c9f060b6d782))
+  (no_connect (at 49.53 111.76) (uuid 8457df99-1d77-441a-bea6-9046b880a304))
   (no_connect (at 49.53 81.28) (uuid e4771f95-739e-4232-ac75-091f8a48a919))
+  (no_connect (at 76.2 104.14) (uuid e6ec7e19-7821-4697-96fd-e3837f8e3d9a))
 
   (wire (pts (xy 73.66 168.91) (xy 83.82 168.91))
     (stroke (width 0) (type default) (color 0 0 0 0))
