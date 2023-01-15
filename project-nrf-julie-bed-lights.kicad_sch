@@ -3106,10 +3106,10 @@
       (reference "J2") (unit 1) (value "Screw_Terminal_01x04") (footprint "TZ042101B000G:TZ042101B000G")
     )
     (path "/761c8ad8-d722-48e5-8333-a309aa770290/0126c0c4-57ac-4d8f-b4c2-64eb5ab98bfe"
-      (reference "J3") (unit 1) (value "Conn_01x12_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right")
+      (reference "J3") (unit 1) (value "Left") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right")
     )
     (path "/761c8ad8-d722-48e5-8333-a309aa770290/f70e0ac4-8776-4d18-a4bc-61178c2976c6"
-      (reference "J4") (unit 1) (value "Conn_01x12_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right")
+      (reference "J4") (unit 1) (value "Right") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right")
     )
     (path "/518ff29c-c2ce-424a-acd0-9cec8c6e8c30/6b462df0-449b-4e7d-aa71-e54a5920d9fc"
       (reference "L1") (unit 1) (value "10uH") (footprint "LBR2518T100K:INDC2518X200N")
